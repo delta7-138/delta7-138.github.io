@@ -1,4 +1,6 @@
 ## Krishna Sharma 
+### About Me 
+#### I am a Computer Science Engineering Student at International Institute of Information Technology, Bangalore. My interests include web development, OS development and competitive programming. I code primarily in python and C++, but have had some experience in flutter development as well. 
 
 You can use the [editor on GitHub](https://github.com/delta7-138/delta7-138.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
