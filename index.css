@@ -8,11 +8,24 @@
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    color: black
+    color: black; 
+}
+.bodyclass{
+    overflow: hidden;
 }
 .bodypart1{
     margin-left: 10%;
     width:18rem;
     object-fit: cover;
     color: black;
+    float: left;
+}
+.bodypart2{
+    color: yellow;
+    margin-left: 500px;
+    background-color: #444444;
+    width: 62.37%; 
+    border: #e01e41;
+    border-width: 2.5px; 
+    border-style: ridge;
 }
