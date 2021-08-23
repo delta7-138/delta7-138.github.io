@@ -28,4 +28,16 @@
     border: #e01e41;
     border-width: 2.5px; 
     border-style: ridge;
+    padding: 10px
+}
+.bodypart3{
+    margin-left: 500px;
+    color: yellow;
+    background-color: #444444;
+    margin-top: 30px;
+    width: 62.37%;
+    border: #ff00ff; 
+    border-style: ridge;
+    border-width: 3.5px;
+    padding: 10px;
 }
