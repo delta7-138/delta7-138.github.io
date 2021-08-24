@@ -8,10 +8,12 @@
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 25px;
     color: black; 
 }
 .bodyclass{
     overflow: hidden;
+    margin-top: 30px;
 }
 .bodypart1{
     margin-left: 10%;
